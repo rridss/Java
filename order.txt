@@ -1,0 +1,12 @@
+reversenum
+strpalin
+arrsort
+seclarge
+duplicate
+
+arrpalin
+secsmall
+reversearr
+
+missnum
+fnonrep
