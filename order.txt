@@ -10,3 +10,6 @@ reversearr
 
 missnum
 fnonrep
+
+twosum
+anagram
